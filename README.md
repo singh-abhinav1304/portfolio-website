@@ -66,4 +66,5 @@ This website was built to:
 Clone the project
 
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/singh-abhinav1304/portfolio-website
+.git
