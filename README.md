@@ -1,16 +1,69 @@
-# React + Vite
+# 💻 Abhinav Singh - Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website!  
+This portfolio showcases my projects, skills, and journey as a frontend developer and tech enthusiast.
 
-Currently, two official plugins are available:
+## 🌐 Live Website
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 https://abhinavsingh13.netlify.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 About Me
 
-## Expanding the ESLint configuration
+Hi, I'm **Abhinav Singh** 👋  
+A passionate developer focused on building modern, responsive, and user-friendly web applications.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+I enjoy creating clean UI designs, solving problems, and continuously learning new technologies.
+
+---
+
+## ✨ Features
+
+- Modern responsive design
+- Smooth user experience
+- Projects showcase section
+- Skills & tech stack section
+- Contact section
+- Mobile-friendly layout
+- Clean animations and transitions
+
+---
+
+## 🛠️ Built With
+
+- React
+- Tailwind
+- JavaScript
+- Netlify
+
+---
+
+## 📂 Sections Included
+
+- Home
+- About
+- Skills
+- Projects
+- Contact
+
+---
+
+## 🎯 Purpose of This Portfolio
+
+This website was built to:
+
+- Showcase my projects
+- Share my development journey
+- Practice frontend development
+- Improve UI/UX skills
+- Build an online developer presence
+
+---
+
+## 🚀 Run Locally
+
+Clone the project
+
+```bash
+git clone https://github.com/your-username/portfolio.git
